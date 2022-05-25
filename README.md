@@ -9,7 +9,7 @@ The aim of this project was to make the hardware side of this mod much simpler, 
 # Install demo
 | | |
 |---|---|
-|![Assembly gif](https://imgur.com/RpcDlKr.gif)|![](https://imgur.com/6bjuRan.jpg)|
+|![Assembly gif](https://imgur.com/RpcDlKr.gif)|![](https://imgur.com/xHNExd1.jpg)|
 
 # To use this mod
 You need to flash your ds lite with the tv out firmware mod - I recommend following [facelesstech's guide](https://bit.ly/3Nf0MW5) as he has gathered the most relevant information in one place. (the [bit.ly link](https://bit.ly/3Nf0MW5) on the board links to this guide)

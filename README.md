@@ -3,11 +3,13 @@ Adding a tactile switch in place of the stylus holder on your DS Lite / GB Macro
 The aim of this project was to make the hardware side of this mod much simpler, the required test point connections are printed on the board also, GND and P10
 
 |Top|Bottom|
-| --- | --- |
+|---|---|
 |![Top of breakout board](https://imgur.com/Ak9LxLe.jpg)|![Bottom of breakout board](https://imgur.com/YgcooIT.jpg)|
 
 # Install demo
-![Assembly gif](https://imgur.com/RpcDlKr.gif)
+| | |
+|---|---|
+|![Assembly gif](https://imgur.com/RpcDlKr.gif)|![](https://imgur.com/6bjuRan.jpg)|
 
 # To use this mod
 You need to flash your ds lite with the tv out firmware mod - I recommend following [facelesstech's guide](https://bit.ly/3Nf0MW5) as he has gathered the most relevant information in one place. (the [bit.ly link](https://bit.ly/3Nf0MW5) on the board links to this guide)

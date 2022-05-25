@@ -19,5 +19,5 @@ After your firmware is ready, connect jumpers with the breakout board as below a
 However this repo should contain all the necessary files to order and or print your own.
 
 # Sources:
-[facelesstech ds-lite-screen-switching-mod](https://facelesstech.wordpress.com/2021/06/20/ds-lite-screen-switching-mod/)
-[LostNintendoHistory Lost-NDS-TV](https://github.com/LostNintendoHistory/Lost-NDS-TV/tree/main/fwpatch)
+- [facelesstech ds-lite-screen-switching-mod](https://facelesstech.wordpress.com/2021/06/20/ds-lite-screen-switching-mod/)
+- [LostNintendoHistory Lost-NDS-TV](https://github.com/LostNintendoHistory/Lost-NDS-TV/tree/main/fwpatch)

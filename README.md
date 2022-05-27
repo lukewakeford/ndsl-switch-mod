@@ -1,4 +1,4 @@
-# I have a handful of boards and buttons for sale [on ebay.](https://www.ebay.co.uk/itm/134129032933)
+# :zap: I have a handful of boards and buttons for sale [on ebay.](https://www.ebay.co.uk/itm/134129032933)
 However this repo should contain all the necessary files to order and or print your own.
 
 # DSLSwitchMod
@@ -16,7 +16,7 @@ After your firmware is ready, connect jumpers with the breakout board as below a
 
 ![PIO](https://imgur.com/JZXk5wk.jpg)
 ![Complete wiring](https://imgur.com/U5ZYRJe.jpg)
-![gif demo](https://imgur.com/dAHcwFU.gif)
+![gif demo](https://i.postimg.cc/jSV3Z9h1/ezgif-com-gif-maker-5.gif)
 
 # Sources:
 - [facelesstech ds-lite-screen-switching-mod](https://facelesstech.wordpress.com/2021/06/20/ds-lite-screen-switching-mod/)

@@ -1,4 +1,4 @@
-# :zap: I have a handful of boards and buttons for sale [on ebay.](https://www.ebay.co.uk/itm/134129032933)
+# :zap: I have a handful of [boards and buttons](https://www.ebay.co.uk/itm/134129032933) for sale and also some with [preflashed wifi modules](https://www.ebay.co.uk/itm/134139953956)
 However this repo should contain all the necessary files to order and or print your own.
 
 # DSLSwitchMod

@@ -13,7 +13,7 @@ The aim of this project was to make the hardware side of this mod much simpler, 
 You need to flash your ds lite with the tv out firmware mod *or* [buy a preflashed module](https://www.ebay.co.uk/itm/134139953956) - I recommend following [facelesstech's guide](https://bit.ly/3Nf0MW5) as he has gathered the most relevant information in one place. (the [bit.ly link](https://bit.ly/3Nf0MW5) on the board links to this guide)
 
 If you buy a preflashed module you simply need to swap old for new, unplug the old module from the back of our DS Lite's motherboard and plug in the new.
-![DS Lite BIOS/WIFI Module](https://imgur.com/RttTccL.jpg)
+![DS Lite BIOS/WIFI Module](https://i.imgur.com/RttTccL.png?1)
 
 After your firmware is ready, connect jumpers with the breakout board as below and you should have a working switch. *I found routing p10 under the cartridge port (following the old wifi antenna location) worked well to avoid the battery tray.*
 

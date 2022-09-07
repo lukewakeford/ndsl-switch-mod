@@ -1,25 +1,29 @@
-# :zap: I have a handful of [boards and buttons](https://www.ebay.co.uk/itm/134129032933) for sale and also some with [preflashed wifi modules](https://www.ebay.co.uk/itm/134139953956)
-However this repo should contain all the necessary files to order and or print your own.
+For instructions on green v1 boards see the [v1 tag](https://github.com/lukewakeford/DSLSwitchMod/tree/1.0)
 
-# DSLSwitchMod
+You can get a v2.0 board [on eBay](https://www.ebay.co.uk/itm/134222632940)
+
+# DSL Switch Mod v2.0
 Adding a tactile switch in place of the stylus holder on your DS Lite / GB Macro.
-The aim of this project was to make the hardware side of this mod much simpler, the required test point connections are printed on the board also, GND and P10
 
-|![Top of breakout board](https://imgur.com/Ak9LxLe.jpg)|![Bottom of breakout board](https://imgur.com/YgcooIT.jpg)|
-|---|---|
-|![Assembly gif](https://imgur.com/RpcDlKr.gif)|![](https://imgur.com/xHNExd1.jpg)|
+![Top of v2.0 breakout board](https://imgur.com/GstEsV9.jpg)
+![Bottom of v2.0 breakout board](https://imgur.com/rRpCdrS.jpg)
+
+For v2.0 I wanted to make the installation of the breakout board solderless, to that end I've added a flex connector that picks up P10, P11, P12 and GND from the top screen connector.
+
+![Flex cable routing](https://imgur.com/XGzSk19.jpg)
+![Top screen connector flex cable install](https://imgur.com/Z8QJAHW.jpg)
+
+note: you can still solder these connections if you want/need to.
+
+![PIO](https://imgur.com/GY4ysrm.jpg)
 
 # To use this mod
-You need to flash your ds lite with the tv out firmware mod *or* [buy a preflashed module](https://www.ebay.co.uk/itm/134139953956) - I recommend following [facelesstech's guide](https://bit.ly/3Nf0MW5) as he has gathered the most relevant information in one place. (the [bit.ly link](https://bit.ly/3Nf0MW5) on the board links to this guide)
+You need to flash your ds lite with the tv out firmware mod *or* [buy a preflashed module](https://www.ebay.co.uk/itm/134222632940) - I recommend following [facelesstech's guide](https://bit.ly/3Nf0MW5) as he has gathered the most relevant information in one place. (the [bit.ly link](https://bit.ly/3Nf0MW5) on the board links to this guide)
 
 If you buy a preflashed module you simply need to swap old for new, unplug the old module from the back of our DS Lite's motherboard and plug in the new.
 
 ![DS Lite BIOS/WIFI Module](https://i.imgur.com/RttTccL.png?1)
 
-After your firmware is ready, connect jumpers with the breakout board as below and you should have a working switch. *I found routing p10 under the cartridge port (following the old wifi antenna location) worked well to avoid the battery tray.*
-
-![PIO](https://imgur.com/JZXk5wk.jpg)
-![Complete wiring](https://imgur.com/U5ZYRJe.jpg)
 ![gif demo](https://i.postimg.cc/jSV3Z9h1/ezgif-com-gif-maker-5.gif)
 
 # Sources:

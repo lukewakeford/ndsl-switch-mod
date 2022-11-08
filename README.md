@@ -3,7 +3,7 @@ For instructions on green v1 boards see the [v1 tag](https://github.com/lukewake
 You can get a v2.1 board [on eBay](https://www.ebay.co.uk/itm/134222632940)
 
 # DSL Switch Mod v2.1
-Adding tactile switchs in place of the stylus holder on your DS Lite / GB Macro.
+Enabling screen switching and making use of the the stylus holder location on your DS Lite / GB Macro.
 
 ![Top of v2.1 breakout board](https://imgur.com/VPYoRPQ.jpg)
 ![Bottom of v2.1 breakout board](https://imgur.com/PCYlm1t.jpg)

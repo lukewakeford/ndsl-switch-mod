@@ -8,8 +8,9 @@ Enabling screen switching and making use of the the stylus holder location on yo
 ![Top of v2.1 breakout board](https://imgur.com/VPYoRPQ.jpg)
 ![Bottom of v2.1 breakout board](https://imgur.com/PCYlm1t.jpg)
 
-v2.1 includes all three switch functions as well as being possible to install soldered or solderless.
+v2.1 includes all three switch functions and can be installed soldered or solderless.
 
+![gif demo](https://i.postimg.cc/nVkH2QZT/ezgif-com-gif-maker.gif)
 ![Flex cable routing](https://imgur.com/XGzSk19.jpg)
 ![Top screen connector flex cable install](https://imgur.com/Z8QJAHW.jpg)
 
@@ -19,8 +20,6 @@ You need to flash your ds lite with the tv out firmware mod *or* [buy a preflash
 If you buy a preflashed module you simply need to swap old for new, unplug the old module from the back of our DS Lite's motherboard and plug in the new.
 
 ![DS Lite BIOS/WIFI Module](https://i.imgur.com/RttTccL.png?1)
-
-![gif demo](https://i.postimg.cc/jSV3Z9h1/ezgif-com-gif-maker-5.gif)
 
 # Install Tips
 - The 3D printed button cap can be simply pushed in to place from the inside of the case, sometimes it may be required to shave a small amount of plastic away where the cap meets the tact switch to adjust the clicky-ness. [v1.0 video example](https://www.youtube.com/shorts/EsnwIeIT36A)

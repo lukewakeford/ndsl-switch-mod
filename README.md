@@ -1,14 +1,14 @@
 For instructions on green v1 boards see the [v1 tag](https://github.com/lukewakeford/DSLSwitchMod/tree/1.0)
 
-You can get a v2.0 board [on eBay](https://www.ebay.co.uk/itm/134222632940)
+You can get a v2.1 board [on eBay](https://www.ebay.co.uk/itm/134222632940)
 
-# DSL Switch Mod v2.0
-Adding a tactile switch in place of the stylus holder on your DS Lite / GB Macro.
+# DSL Switch Mod v2.1
+Adding tactile switchs in place of the stylus holder on your DS Lite / GB Macro.
 
-![Top of v2.0 breakout board](https://imgur.com/GstEsV9.jpg)
-![Bottom of v2.0 breakout board](https://imgur.com/rRpCdrS.jpg)
+![Top of v2.1 breakout board](https://imgur.com/VPYoRPQ.jpg)
+![Bottom of v2.1 breakout board](https://imgur.com/PCYlm1t.jpg)
 
-For v2.0 I wanted to make the installation of the breakout board solderless, to that end I've added a flex connector that picks up P10, P11, P12 and GND from the top screen connector.
+v2.1 includes all three switch functions as well as being possible to install soldered or solderless.
 
 ![Flex cable routing](https://imgur.com/XGzSk19.jpg)
 ![Top screen connector flex cable install](https://imgur.com/Z8QJAHW.jpg)

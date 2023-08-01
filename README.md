@@ -1,6 +1,6 @@
 For instructions on green v1 boards see the [v1 tag](https://github.com/lukewakeford/DSLSwitchMod/tree/1.0)
 
-I've sold out of boards at the moment, If I get anymore I will post on instagram about it and update [the eBay listing](https://www.ebay.co.uk/itm/134222632940)
+I've sold out of boards at the moment, If I get anymore I will post [on instagram](https://instagram.com/applecorexy) about it and update [the eBay listing](https://www.ebay.co.uk/itm/134222632940)
 
 # DSL Switch Mod v2.1
 Enabling screen switching and making use of the the stylus holder location on your DS Lite / GB Macro.

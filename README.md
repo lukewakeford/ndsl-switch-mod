@@ -1,6 +1,6 @@
 For instructions on green v1 boards see the [v1 tag](https://github.com/lukewakeford/DSLSwitchMod/tree/1.0)
 
-You can get a v2.1 board [on eBay](https://www.ebay.co.uk/itm/134222632940)
+I've sold out of boards at the moment, If I get anymore I will post on instagram about it and update [the eBay listing](https://www.ebay.co.uk/itm/134222632940)
 
 # DSL Switch Mod v2.1
 Enabling screen switching and making use of the the stylus holder location on your DS Lite / GB Macro.
@@ -13,6 +13,11 @@ v2.1 includes all three switch functions and can be installed soldered or solder
 ![gif demo](https://i.postimg.cc/nVkH2QZT/ezgif-com-gif-maker.gif)
 ![Flex cable routing](https://imgur.com/XGzSk19.jpg)
 ![Top screen connector flex cable install](https://imgur.com/Z8QJAHW.jpg)
+
+# If ordering your own boards
+- If you want to use the same components as me, please see the BOM.csv file in the repo
+- I ordered boards with the bottom half populated from jlcpcb. The gerber, bom and, pick and place files were accepted there just fine.
+- The flex cable I use is a 25 pin 0.3mm pitch 120mm long ffc which i sourced from aliexpress
 
 # To use this mod
 You need to flash your ds lite with the tv out firmware mod *or* [buy a preflashed module](https://www.ebay.co.uk/itm/134222632940) - I recommend following [facelesstech's guide](https://bit.ly/3Nf0MW5) as he has gathered the most relevant information in one place. (the [bit.ly link](https://bit.ly/3Nf0MW5) on the board links to this guide)

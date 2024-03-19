@@ -1,6 +1,6 @@
 For instructions on green v1 boards see the [v1 tag](https://github.com/lukewakeford/DSLSwitchMod/tree/1.0)
 
-I've sold out of boards at the moment, If I get anymore I will post [on instagram](https://instagram.com/applecorexy) about it and update [the eBay listing](https://www.ebay.co.uk/itm/134222632940)
+I've sold out of boards at the moment, If I get anymore I will post [on instagram](https://instagram.com/applecorexy) and update [my website](https://www.lukewakeford.co.uk)
 
 # DSL Switch Mod v2.1
 Enabling screen switching and making use of the the stylus holder location on your DS Lite / GB Macro.
@@ -27,8 +27,9 @@ If you buy a preflashed module you simply need to swap old for new, unplug the o
 ![DS Lite BIOS/WIFI Module](https://i.imgur.com/RttTccL.png?1)
 
 # Install Tips
-- The 3D printed button cap can be simply pushed in to place from the inside of the case, sometimes it may be required to shave a small amount of plastic away where the cap meets the tact switch to adjust the clicky-ness. [v1.0 video example](https://www.youtube.com/shorts/EsnwIeIT36A)
+- The 3D printed button cap can be simply pushed in to place from the inside of the case, sometimes it may be required to smooth/sand the part to get a good fit [v1.0 video example](https://www.youtube.com/shorts/EsnwIeIT36A)
 - Use two of the original stylus tray screws (ones with the slight gold tint) to secure the breakout board in place. [v1.0 video example](https://www.youtube.com/shorts/EsnwIeIT36A)
+- Backing off the mounting screws a tiny bit can help adjust the clicky-ness.
 - If soldering follow this pin out, I found that running wires underneath the ds game card slot is a good route for this.
 ![PIO](https://imgur.com/GY4ysrm.jpg)
 - Please see the pictures at the top of this readme for the correct location to install the flex cable in the top screen connector port.

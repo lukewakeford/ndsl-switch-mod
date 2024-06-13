@@ -16,9 +16,10 @@ A screen switch breakout board for the DS Lite / GB Macro - requires the TV Out 
 - The flex cable I use is a 25 pin 0.3mm pitch 120mm long ffc which i sourced from aliexpress
 
 # To use this mod
-You need to flash your ds lite with the tv out firmware mod *or* [buy a kit](https://lukewakeford.co.uk/product/dsl-switch-mod-v3-0) - I recommend following [facelesstech's guide](https://bit.ly/3Nf0MW5) as he has gathered the most relevant information in one place. (the [bit.ly link](https://bit.ly/3Nf0MW5) on the board links to this guide)
+You need to flash your ds lite with the tv out firmware mod *or* [buy a kit](https://lukewakeford.co.uk/product/dsl-switch-mod-v3-0) - I recommend following [facelesstech's guide](https://bit.ly/3Nf0MW5) as he has gathered the most relevant information in one place.
 
 # Install Tips
+- This mod requires the macro mod, this involves soldering a 330r resistor across LEDA2 and LEDC2 ![Macro Mod Resistor Location](https://i.imgur.com/p5pZC6G.jpg)
 - After removing the stylus tray, The 3D printed button cap can be put in place from inside of the enclosure.
 - Use two of the original stylus tray screws (ones with the slight gold tint) to secure the breakout board on top of the cap. [v1.0 video example](https://www.youtube.com/shorts/EsnwIeIT36A)
 - If your buttons are not clicking, back off one or both of the mounting screws a tiny bit to adjust.

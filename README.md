@@ -2,6 +2,9 @@
 
 [Buy a kit on my website](https://www.lukewakeford.co.uk) or [Follow me on instagram for updates](https://instagram.com/applecorexy)
 
+# Big thanks to PCBWay!
+Many thanks to PCBWay for sponsoring the prototyping of my PCB project. Their support made it possible to bring this design from concept to reality, and their fast, reliable service ensured a smooth and professional process. For PCB manufacturing, prototyping, and much more, check out [PCBWay!](https://pcbway.com/g/ogcF03)
+
 # DSL Switch Mod v3.0
 A screen switch breakout board for the DS Lite / GB Macro - requires the TV Out Firmware Mod by [LostNintendoHistory Lost-NDS-TV](https://github.com/LostNintendoHistory/Lost-NDS-TV/tree/main/fwpatch)
 
